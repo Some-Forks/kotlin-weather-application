@@ -8,8 +8,8 @@
     <string name="currentTime_placeholder">%s</string>
     <string name="temp">TEMP</string>
     <string name="precip">PRECIP</string>
-    <string name="dialy_button_text">DIALY WEATHER</string>
-    <string name="hourly_button_text">hourly weather</string>
+    <string name="dialy_button_text">CLIMA DIARIO</string>
+    <string name="hourly_button_text">CLIMA POR HORA</string>
     <string name="icon_weather_icon">icon weather icon</string>
     <string name="language">es</string>
     <string name="units">si</string>

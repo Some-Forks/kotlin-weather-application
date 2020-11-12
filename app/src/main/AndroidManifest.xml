@@ -13,7 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.KolorWeather">
-        <activity android:name=".UI.HourlyWeatherActivity"></activity>
+        <activity android:name=".UI.LocationActivity"></activity>
+        <activity android:name=".UI.HourlyWeatherActivity" />
         <activity android:name=".UI.DailyWeatherActivity" />
         <activity android:name=".UI.MainActivity">
             <intent-filter>
